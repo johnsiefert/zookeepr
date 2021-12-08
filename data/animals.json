@@ -111,12 +111,17 @@
     },
     {
       "name": "Larry",
+<<<<<<< HEAD
       "species": "lemur",
+=======
+      "species": "Lemur",
+>>>>>>> feature/front-end
       "diet": "omnivore",
       "personalityTraits": [
         "hungry"
       ],
       "id": "11"
+<<<<<<< HEAD
     },
     {
       "name": "Larry",
@@ -144,6 +149,8 @@
         "hungry"
       ],
       "id": "14"
+=======
+>>>>>>> feature/front-end
     }
   ]
 }
